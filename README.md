@@ -1,1 +1,3 @@
-# My_collegeSummary
+# Wuhan University Computer Science and Technology(武汉大学 计算机科学与技术）
+-----------------------------------------------------------------------------
+这是我的大学课程总结，并且目前已经更新到了大三上学期
